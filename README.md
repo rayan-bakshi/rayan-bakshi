@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayan Bakshi</h1>
-<h3 align="center">A passionate AI/ML enthusiast who is on a journey to explore the world of Full Stack Web Development. Optimistic and Persistent in nature.</h3>
+<h3 align="center">I am a passionate AI/ML enthusiast who is on a Optimistic and Persistent in nature.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-bakshi&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-bakshi" /> </p>
 
